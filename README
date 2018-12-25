@@ -1,1 +1,4 @@
-My Project
+Hapi project showing:
+require hapi
+creating server object with host and port
+creating server route by passing object with method string, path string and handler function
